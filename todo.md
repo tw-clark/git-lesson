@@ -1,7 +1,8 @@
 # Shopping list for pancakes
 
-[X] Eggs
-[ ] Milk
-[ ] Flour
-[ ] Garlic
-[ ] Pasta
+- [X] Eggs
+- [ ] Milk
+- [ ] Flour
+- [ ] Garlic
+- [ ] Pasta
+- [ ] Tomatoes
